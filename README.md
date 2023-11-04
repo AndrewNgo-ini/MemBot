@@ -2,6 +2,11 @@
 
 This Discord bot is designed to interact with users on Discord servers. It can learn from text inputs and provide answers based on previous interactions. The bot uses the `langchain` library for its language processing capabilities and FAISS for efficient similarity search in large databases.
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1C5ke7wF_E-G92m2ccR3K75t-80rD9ESf?usp=sharing)
+
+This repository contains a Colab notebook that demonstrates how to use the MemBot application. To open the notebook in your browser, click the "Open In Colab" button.
+
+
 ## Features
 
 - **Learn**: The bot can learn from text inputs provided via the `/learn` command.
